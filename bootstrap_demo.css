@@ -5,7 +5,7 @@ html{
 body{
 	height: 100%;
 	font-family: Yeseva One;
-	background: url("file:///Users/eric-home/Documents/Web_developement/backgrounds/line-background-wave-dark.jpg") center center no-repeat fixed;
+	background: url("http://picview.info/download/20150806/line-background-wave-dark-2560x1920.jpg") center center no-repeat fixed;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
  	-o-background-size: cover;
@@ -19,7 +19,7 @@ body{
 	font-family: Ultra;
 	color: white;
 	height: 94%;
-	background: url("file:///Users/eric-home/Documents/Web_developement/backgrounds/black-woodbox-Wallpapers.jpg") center center no-repeat;
+	background: url("http://picview.info/download/20150725/lines-wavy-background-smoke-2560x1080.jpg") center center no-repeat;
 	background-size: cover;
 	padding-top: 15%;
 }
